@@ -10,6 +10,6 @@ The current weather of a particular location is also made available in the Weath
 video on how the forecasting model works:
 https://drive.google.com/file/d/1PJoFpB75yJhPwUmqFDoQ3cfHAzoTibSn/view?usp=sharing
 
-Zip file consisting of the Flutter application:
-https://drive.google.com/file/d/1rSHhyqah81ELvhlRR8FwG8hXnlTaTI9g/view?usp=sharing
+Google drive link to flutter application :
+https://drive.google.com/drive/folders/1n1JXLu0W8MAfrhfIe5yu_URvJZb45OAG?usp=sharing
 
