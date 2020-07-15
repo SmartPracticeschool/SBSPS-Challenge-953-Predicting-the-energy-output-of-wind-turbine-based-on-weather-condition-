@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'screens/account.dart';
 import 'screens/home.dart';
 import 'screens/settings.dart';
+import 'screens/power.dart';
 
 void main() {
   runApp(MaterialApp(
@@ -11,6 +12,7 @@ void main() {
       // define the routes
       SettingsScreen.routeName: (BuildContext context) => SettingsScreen(),
       AccountScreen.routeName: (BuildContext context) => AccountScreen(),
+      PowerScreen.routeName: (BuildContext context) => PowerScreen(),
     },
   ));
 }
